@@ -90,6 +90,7 @@ main {
     background-color: lightblue;
     /* Make main element take up spare space */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* Footer */
